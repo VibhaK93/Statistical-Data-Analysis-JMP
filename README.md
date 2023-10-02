@@ -13,15 +13,16 @@
 
 ![Revenue Distribution_2](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/b96a5740-8b32-47eb-bb05-96fa89fccb95)
 
-2. **Units sold by region **
+2. **Units sold by region**
 - After removing extreme outliers from the data, I identified the regions with the highest and lowest average units sold per store.
 - **Analysis:** Based on the results, The Pacific Northwest region has the highest average units sold per store which is 343.79, while the Southwest region has the lowest average units sold per store which is 179.63.
 
   ![Unitssoldbyregion 1](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/a45ceeba-ee8c-49f2-a4aa-962d859b3f80)
 
-3. Impact of average retail price on units sold
+3. **Impact of average retail price on units sold**
 - Used JMP's Fit Y by X platform to create a scatterplot of Units Sold (Y) vs. Average Retail Price (X) showcasing a trendline.
-- Analysis: In the scatter plot, the horizontal trendline indicates a negative correlation between the average retail price and the number of units sold. As the price increases, the sales volume decreases. The closely clustered data points on the plot further highlight this strong relationship.
+- **Analysis:** In the scatter plot, the horizontal trendline indicates a negative correlation between the average retail price and the number of units sold. As the price increases, the sales volume decreases. The closely clustered data points on the plot further highlight this strong relationship.
+
   <img width="276" alt="AvgpriceVsUnitssold" src="https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/d2724ac3-6dc1-4612-9ab2-dc695a23c8e5">
 
 4. Graph builder exploration:
