@@ -25,8 +25,11 @@
 
   <img width="276" alt="AvgpriceVsUnitssold" src="https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/d2724ac3-6dc1-4612-9ab2-dc695a23c8e5">
 
-4. Graph builder exploration:
-- Analysis: The chart below compares revenue across regions. Southwest and Rocky Mountains have the highest revenue, so the company should focus on these regions for sales.
+4. **Graph builder exploration:**
+- **Analysis:** The chart below compares revenue across regions. Southwest and Rocky Mountains have the highest revenue, so the company should focus on these regions for sales.
+  
  ![Graphbuilder](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/5b68b1aa-e215-49ae-986a-2e91f264ea25)
-- Analysis: The tree map displays the highest number of units sold in each region, with the Southwest region having the highest number of units sold (8100), while the North Atlantic and Florida regions having the lowest number of units sold (307). This visualization is helpful in planning tactics to increase the number of units sold in each region.
+ 
+- **Analysis:** The treemap shows the highest number of units sold in each region, with the Southwest region having the highest number of units sold (8100), while the North Atlantic and Florida regions having the lowest number of units sold (307). This visualization is helpful in planning tactics to increase the number of units sold in each region.
+  
  ![Graphbuilder2](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/30f1c455-d9d3-4b3e-8763-d3d90f4a8291)
