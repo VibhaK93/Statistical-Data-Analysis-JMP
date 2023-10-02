@@ -1,10 +1,9 @@
 # Statistical-Data-Analysis-JMP
 [ProductTestHistory_Raw Data.xlsx](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/files/12786835/ProductTestHistory_Raw.Data.xlsx)
 
-Data description: 	
- 	
-![image](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/fa57c123-8c19-4285-ab27-7621b348e2ec)
+Data description: 
 
+![image](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/ad66e0b5-50db-4dda-9d46-6ab0de06625d)
 
 1. **Revenue Distribution**
  - I created a new variable "Revenue" to calculate the total revenue by multiplying the **number of units sold with the average retail price** for each record. Then, I used JMP's Distribution platform to make a histogram of the Revenue variable along with the related Descriptive Statistics. I removed any clearly extreme outliers and repeated this analysis to observe the results.
