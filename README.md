@@ -1,7 +1,7 @@
 # Statistical-Data-Analysis-JMP
 [ProductTestHistory_Raw Data.xlsx](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/files/12786835/ProductTestHistory_Raw.Data.xlsx)
 
-Data description: Variable Definitions		
+Data description: 	
  	
 ![image](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/fa57c123-8c19-4285-ab27-7621b348e2ec)
 
