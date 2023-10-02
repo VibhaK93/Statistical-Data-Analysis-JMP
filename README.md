@@ -13,9 +13,10 @@
 
 ![Revenue Distribution_2](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/b96a5740-8b32-47eb-bb05-96fa89fccb95)
 
-2. Units sold by region 
+2. **Units sold by region **
 - After removing extreme outliers from the data, I identified the regions with the highest and lowest average units sold per store.
-- Analysis: Based on the results, The Pacific Northwest region has the highest average units sold per store which is 343.79, while the Southwest region has the lowest average units sold per store which is 179.63.
+- **Analysis:** Based on the results, The Pacific Northwest region has the highest average units sold per store which is 343.79, while the Southwest region has the lowest average units sold per store which is 179.63.
+
   ![Unitssoldbyregion 1](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/a45ceeba-ee8c-49f2-a4aa-962d859b3f80)
 
 3. Impact of average retail price on units sold
