@@ -2,18 +2,7 @@
 [ProductTestHistory_Raw Data.xlsx](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/files/12786835/ProductTestHistory_Raw.Data.xlsx)
 
 Data description: Variable Definitions		
-1	Date: The date used associated with the week for which the data has been captured and stored	
-2	Region:  The region associated with the particular store that corresponds to this record	
-3	Store:  The stores that corresponds to this record	
-4	Units Sold (Volume): The number of units sold per store per week.	
-5	Average Retail Price:  The average retail price for GoodBelly products per store per week.	
-6	Sales Rep: Defined as 1 if the store had a regional sales rep (face-to-face contact) and 0 if the store had only the national sales rep (no face-to-face contact). 	
-7	Endcap: Defined as 1 if a store participated in an endcap promotion. 	
-8	Demo: Defined as 1 if the store had a demo on the corresponding week.	
-9	Demo1-3: Defined as 1 if the store had a demo 1-3 weeks ago. 	
-10	Demo4-5: Defined as 1 if the store had a demo at least 4-5 weeks ago. 	
-11	Natural Retailers: The number of other natural retailers within 5 miles of each store.	
-12	Fitness Centers: The number of fitness centers within 5 miles of each store.  	
+ 	
 ![image](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/fa57c123-8c19-4285-ab27-7621b348e2ec)
 
 
