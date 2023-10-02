@@ -3,7 +3,7 @@
 
 1. **Revenue Distribution**
  - I created a new variable "Revenue" to calculate the total revenue by multiplying the **number of units sold with the average retail price** for each record. Then, I used JMP's Distribution platform to make a histogram of the Revenue variable along with the related Descriptive Statistics. I removed any clearly extreme outliers and repeated this analysis to observe the results.
- - **Analysis**: The histogram indicates that without excluding outliers in the first case, the distribution will not be normal and the mean will be affected by the outliers. On the other hand, in the second case, after removing two extreme outliers, Revenue 8495.8 and 35559, the distribution will become normal, and the curve will be symmetrical at the center.
+ - **Analysis**: The histogram indicates that without excluding outliers in the first case, the distribution will not be normal and the mean will be sensitive to the outliers. On the other hand, in the second case, after removing two extreme outliers, Revenue 8495.8 and 35559 from the data, the distribution will become normal, and the curve will be symmetrical at the center.
 
 **Before Excluding Outliers** 
 
