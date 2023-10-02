@@ -6,7 +6,9 @@
  - **Analysis**: The histogram indicates that without excluding outliers in the first case, the distribution will not be normal and the mean will be affected by the outliers. On the other hand, in the second case, after removing two extreme outliers, Revenue 8495.8 and 35559, the distribution will become normal, and the curve will be symmetrical at the center.
 
 **Before Excluding Outliers** 
+
 ![Revenue Distribution_1](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/ff3e7522-8e3d-4ca6-b720-9a73daeafcbf)
+
 **After Excluding Outliers**
 ![Revenue Distribution_2](https://github.com/VibhaK93/Statistical-Data-Analysis-JMP/assets/146596962/b96a5740-8b32-47eb-bb05-96fa89fccb95)
 
